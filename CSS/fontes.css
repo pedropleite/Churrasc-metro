@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "fontep";
+    src: url("../CSS/fontes/Deep\ Shadow.ttf") format("truetype"),
+        url("../CSS/fontes/Deep\ Shadow\ Over.ttf") format("truetype"),
+        url("../CSS/fontes/Deep\ Shadow\ Under.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "fonte2";
+    src: url("../CSS/fontes/Freshman.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
