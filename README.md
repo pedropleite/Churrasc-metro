@@ -1,8 +1,8 @@
 # Churrascômetro 🍖
 
-<img width ="100%" src="https://github.com/pedropleite/Churrasc-metro/blob/master/README.gif.gif">
+<img width ="100%" src="https://github.com/pedropleite/Churrascometro/blob/master/README.gif.gif">
 <br>
-<p>Se você quiser dar uma espiada no site, <a href="https://pedropleite.github.io/Churrasc-metro/">clique aqui</a>.</p> 
+<p>Se você quiser dar uma espiada no site, <a href="https://pedropleite.github.io/Churrascometro/">clique aqui</a>.</p> 
 
 # Sobre esse projeto
 <p>A ideia do app é:</p>
